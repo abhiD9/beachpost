@@ -1,0 +1,5 @@
+node_modules
+/ReadForMe.md
+.env
+build
+gitignore
