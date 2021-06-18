@@ -1,5 +1,7 @@
 ## Welcome to the BeachPost app Check the [Live-Demo].⚡ here
 
+![alt text](https://mongo-mern.s3.ap-south-1.amazonaws.com/2.jpg)
+
 ### Stack used: MongoDb, ExpressJs, NodeJs, ReactJs
 
 ### Services: Google-OAuth, JWT, Multer-ImageUploads, Redux
